@@ -1,5 +1,5 @@
 ## Game Dev 🎮 
-Hi! My name is SoYeon. I'm studying Game Engines & Computer Graphics! 
+Hi! My name is **SoYeon**. I'm studying `Game Engines` & `Computer Graphics` & `Machine Learning`!
 
 <div align="center">  
   
