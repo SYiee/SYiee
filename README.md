@@ -6,7 +6,7 @@ Hi! My name is **SoYeon**. I'm studying `Game Engines` & `Computer Graphics` & `
 ### 🛠 Tech Stack 🛠
 </div>
 
-<div align="center">
+<div align="center"> 
 <img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"/> <img src="https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unreal engine&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/DirextX-2D963D?style=for-the-badge&logo=docsdotrs&logoColor=FFFFFF"/>
 </div>
 
