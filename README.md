@@ -1,5 +1,5 @@
 ## Game Dev 🎮 
-Hi! My name is **Celina Cho (Soyeon Cho)**. I'm studying `Game Engines` & `Computer Graphics`!
+Hi! My name is **Soyeon(Celina)**. I'm studying `Game Engines` & `Computer Graphics`!
 
 <div align="center">  
   
