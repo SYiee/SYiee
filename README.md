@@ -1,5 +1,11 @@
-## Game Dev 🎮 
-Hi! My name is **Soyeon(Celina)**. I'm studying `Game Engines` & `Computer Graphics`!
+## Game Dev 👾
+Hi! My name is **Soyeon(Celina)**. I'm studying `Game Engines` & `Computer Graphics`!  
+I’ve launched two games that you can try out:
+
+🎮 `Sketcheez` – A mobile 2D action puzzle game available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.gigglegames.Sketcheez&hl=ko)
+
+🖥️ `Kingmini` – A 3D platformer game released on [Steam](https://store.steampowered.com/app/2336310/KingMini/?l=koreana)
+
 
 <div align="center">  
   
@@ -7,15 +13,13 @@ Hi! My name is **Soyeon(Celina)**. I'm studying `Game Engines` & `Computer Graph
 </div>
 
 <div align="center"> 
-<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"/> <img src="https://img.shields.io/badge/unrealengine-0E1128?style=for-the-badge&logo=unreal engine&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/DirextX-2D963D?style=for-the-badge&logo=docsdotrs&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"/> <img src="https://img.shields.io/badge/DirextX-2D963D?style=for-the-badge&logo=docsdotrs&logoColor=FFFFFF"/>
 </div>
 
 
 <div align="center">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Csharp-662D91?style=for-the-badge&logo=csharp&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/> 
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Csharp-662D91?style=for-the-badge&logo=csharp&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF"/>  
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF"/> 
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=FFFFFF"/> 
 </div> 
 <div align="center">  
 
@@ -43,11 +47,12 @@ Hi! My name is **Soyeon(Celina)**. I'm studying `Game Engines` & `Computer Graph
 </div>
 
 <div align="center">  
-  
+  <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSYiee&count_bg=%239440CF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>  
 
-<!--#404040#4A154B
+  
+#404040#4A154B
 slack
 **SYiee/SYiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
