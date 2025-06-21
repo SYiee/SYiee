@@ -13,7 +13,7 @@ I’ve launched two games that you can try out:
 </div>
 
 <div align="center"> 
-<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"/> <img src="https://img.shields.io/badge/DirextX-2D963D?style=for-the-badge&logo=docsdotrs&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=000000"/> <img src="https://img.shields.io/badge/unrealengine-000000?style=for-the-badge"/>  <img src="https://img.shields.io/badge/VR-9900CC?style=for-the-badge&logo=oculus&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/DirextX-2D963D?style=for-the-badge&logo=docsdotrs&logoColor=FFFFFF"/>
 </div>
 
 
